@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AshwinRamteke1
+- 👋 Hi, I’m AshwinRamteke
 - 👀 I’m interested in Data Science, AI,Machine Learning, Deep Learning
 - 🌱 I’m currently learning Ml,Deep Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on github
+- 📫 reach me at ashwinramteke1@gmail.com
 
 <!---
 AshwinRamteke1/AshwinRamteke1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
