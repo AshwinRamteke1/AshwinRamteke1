@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AshwinRamteke
-- 👀 I’m interested in Data Science, AI,Machine Learning, Deep Learning
+- 👀 I’m interested in Data Analysis, Data Science, Machine Learning, Deep Learning
 - 🌱 I’m currently learning Ml,Deep Learning
 - 💞️ I’m looking to collaborate on github
 - 📫 reach me at ashwinramteke1@gmail.com
